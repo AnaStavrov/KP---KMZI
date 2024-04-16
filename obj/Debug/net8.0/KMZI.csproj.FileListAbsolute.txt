@@ -1,0 +1,14 @@
+C:\Users\Gina\source\repos\KMZI\KMZI\obj\Debug\net8.0\KMZI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gina\source\repos\KMZI\KMZI\obj\Debug\net8.0\KMZI.AssemblyInfoInputs.cache
+C:\Users\Gina\source\repos\KMZI\KMZI\obj\Debug\net8.0\KMZI.AssemblyInfo.cs
+C:\Users\Gina\source\repos\KMZI\KMZI\obj\Debug\net8.0\KMZI.csproj.CoreCompileInputs.cache
+C:\Users\Gina\source\repos\KMZI\KMZI\bin\Debug\net8.0\KMZI.exe
+C:\Users\Gina\source\repos\KMZI\KMZI\bin\Debug\net8.0\KMZI.deps.json
+C:\Users\Gina\source\repos\KMZI\KMZI\bin\Debug\net8.0\KMZI.runtimeconfig.json
+C:\Users\Gina\source\repos\KMZI\KMZI\bin\Debug\net8.0\KMZI.dll
+C:\Users\Gina\source\repos\KMZI\KMZI\bin\Debug\net8.0\KMZI.pdb
+C:\Users\Gina\source\repos\KMZI\KMZI\obj\Debug\net8.0\KMZI.dll
+C:\Users\Gina\source\repos\KMZI\KMZI\obj\Debug\net8.0\refint\KMZI.dll
+C:\Users\Gina\source\repos\KMZI\KMZI\obj\Debug\net8.0\KMZI.pdb
+C:\Users\Gina\source\repos\KMZI\KMZI\obj\Debug\net8.0\KMZI.genruntimeconfig.cache
+C:\Users\Gina\source\repos\KMZI\KMZI\obj\Debug\net8.0\ref\KMZI.dll
